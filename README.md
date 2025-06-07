@@ -3,7 +3,7 @@
 </h1> 
 <div align="center"> 
   <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" /> 
-  <img height="40px" src="https://img.shields.io/badge/-LIKITHA-333d7a?&style=for-the-badge&logoWidth=50" /> 
+  <img height="40px" src="https://img.shields.io/badge/-PUNEETH-333d7a?&style=for-the-badge&logoWidth=50" /> 
   <img height="40px" src="https://img.shields.io/badge/-REDDY-faebee?&style=for-the-badge&logoWidth=50" /> 
   <img height="40px" src="https://img.shields.io/badge/-TAPASI-333d7a?&style=for-the-badge&logoWidth=50" />
   <br><br>
