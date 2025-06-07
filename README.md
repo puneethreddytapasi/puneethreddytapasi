@@ -18,7 +18,7 @@
 </div>
 <br><br>
 
-  '''py
+```py
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -35,7 +35,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-'''
+```
 
 <br> 
 <h1 align="center"> 
